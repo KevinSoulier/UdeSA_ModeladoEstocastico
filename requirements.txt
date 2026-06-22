@@ -1,0 +1,10 @@
+# Kernel para ejecutar los notebooks en VSCode / Jupyter
+ipykernel
+
+# Librerias usadas en los notebooks
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
+yfinance
