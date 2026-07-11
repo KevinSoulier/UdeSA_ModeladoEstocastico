@@ -9,4 +9,6 @@ scipy
 statsmodels
 yfinance
 statsmodels
-openpyxl 
+openpyxl
+seaborn
+xlrd 
